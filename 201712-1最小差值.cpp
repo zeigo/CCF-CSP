@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-
+// 先排序，再比较相邻两元素的差值
 int main(int argc, char const *argv[])
 {
     int n, x;
